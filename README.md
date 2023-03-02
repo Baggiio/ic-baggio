@@ -1,0 +1,6 @@
+![test_front_rendered.png](docs/test_front_rendered.png)
+![test_left_rendered.png](docs/test_left_rendered.png)
+![test_right_rendered.png](docs/test_right_rendered.png)
+![comparacao_front.png](docs/comparacao_front.png)
+![comparacao_lateral.png](docs/comparacao_lateral.png)
+![openpose3d.gif](docs/openpose3d.gif)
