@@ -1,0 +1,1316 @@
+Move counter: 1
+Frame: 30.0
+Knee angle right side (left cam): 144.7132971917175
+Knee angle left side (right cam): 155.58610788947902
+Right knee angle (front cam): 157.31974129041242
+Left knee angle (front cam): 169.1740651684205
+
+Move counter: 1
+Frame: 31.0
+Knee angle right side (left cam): 148.79964299415445
+Knee angle left side (right cam): 158.39869997076002
+Right knee angle (front cam): 159.74865401293602
+Left knee angle (front cam): 163.61250807106921
+
+Move counter: 1
+Frame: 32.0
+Knee angle right side (left cam): 140.77712742603524
+Knee angle left side (right cam): 147.93650775198705
+Right knee angle (front cam): 158.92498750114152
+Left knee angle (front cam): 163.0999897405879
+
+Move counter: 1
+Frame: 33.0
+Knee angle right side (left cam): 140.77598925477517
+Knee angle left side (right cam): 147.9424470935556
+Right knee angle (front cam): 158.920010436039
+Left knee angle (front cam): 163.10301904633891
+
+Move counter: 1
+Frame: 34.0
+Knee angle right side (left cam): 130.9336697961997
+Knee angle left side (right cam): 132.2265770040479
+Right knee angle (front cam): 153.02033992377912
+Left knee angle (front cam): 154.29763640772063
+
+Move counter: 1
+Frame: 35.0
+Knee angle right side (left cam): 130.93553297093618
+Knee angle left side (right cam): 132.23575020562612
+Right knee angle (front cam): 153.02012536117763
+Left knee angle (front cam): 154.2955397106717
+
+Move counter: 1
+Frame: 36.0
+Knee angle right side (left cam): 120.74450672653201
+Knee angle left side (right cam): 121.36728984726228
+Right knee angle (front cam): 151.92638741350746
+Left knee angle (front cam): 152.86342740608674
+
+Move counter: 1
+Frame: 37.0
+Knee angle right side (left cam): 120.74599992104204
+Knee angle left side (right cam): 121.3793006485734
+Right knee angle (front cam): 151.9217168398911
+Left knee angle (front cam): 152.87021064986916
+
+Move counter: 1
+Frame: 38.0
+Knee angle right side (left cam): 117.13840465152715
+Knee angle left side (right cam): 117.88997068057168
+Right knee angle (front cam): 150.6483023077731
+Left knee angle (front cam): 144.5441816417641
+
+Move counter: 1
+Frame: 39.0
+Knee angle right side (left cam): 117.13700459569824
+Knee angle left side (right cam): 117.8896506475384
+Right knee angle (front cam): 150.6482674956692
+Left knee angle (front cam): 144.54568288259136
+
+Move counter: 1
+Frame: 40.0
+Knee angle right side (left cam): 116.02153530490322
+Knee angle left side (right cam): 108.12810136325852
+Right knee angle (front cam): 149.7022423944341
+Left knee angle (front cam): 143.40051829601734
+
+Move counter: 1
+Frame: 41.0
+Knee angle right side (left cam): 116.02268690614518
+Knee angle left side (right cam): 108.12942070620093
+Right knee angle (front cam): 149.6776619450832
+Left knee angle (front cam): 143.39330859328396
+
+Move counter: 1
+Frame: 42.0
+Knee angle right side (left cam): 110.22048890617279
+Knee angle left side (right cam): 108.41909847298511
+Right knee angle (front cam): 148.7011378130348
+Left knee angle (front cam): 143.219452333784
+
+Move counter: 1
+Frame: 43.0
+Knee angle right side (left cam): 110.22646471859979
+Knee angle left side (right cam): 108.4160790032702
+Right knee angle (front cam): 148.70165118741178
+Left knee angle (front cam): 143.21828293928766
+
+Move counter: 1
+Frame: 44.0
+Knee angle right side (left cam): 104.52641903026131
+Knee angle left side (right cam): 108.1702779436498
+Right knee angle (front cam): 142.61373602945582
+Left knee angle (front cam): 136.3382725044069
+
+Move counter: 1
+Frame: 45.0
+Knee angle right side (left cam): 106.37771631692162
+Knee angle left side (right cam): 108.1693129228633
+Right knee angle (front cam): 142.61916910148855
+Left knee angle (front cam): 136.3255345829107
+
+Move counter: 1
+Frame: 46.0
+Knee angle right side (left cam): 96.37214513558995
+Knee angle left side (right cam): 103.1358377994877
+Right knee angle (front cam): 145.77569785741446
+Left knee angle (front cam): 136.23070085238285
+
+Move counter: 1
+Frame: 47.0
+Knee angle right side (left cam): 96.37188874829646
+Knee angle left side (right cam): 103.13713543873536
+Right knee angle (front cam): 145.76862779356378
+Left knee angle (front cam): 136.23129224612754
+
+Move counter: 1
+Frame: 48.0
+Knee angle right side (left cam): 96.37819599089954
+Knee angle left side (right cam): 100.27209244659456
+Right knee angle (front cam): 144.7988714161452
+Left knee angle (front cam): 134.98918841397472
+
+Move counter: 1
+Frame: 49.0
+Knee angle right side (left cam): 90.7819290926753
+Knee angle left side (right cam): 100.26802874125919
+Right knee angle (front cam): 144.8047894948031
+Left knee angle (front cam): 134.99241174326096
+
+Move counter: 1
+Frame: 50.0
+Knee angle right side (left cam): 90.78289178566047
+Knee angle left side (right cam): 99.37134371161294
+Right knee angle (front cam): 139.99953513131305
+Left knee angle (front cam): 134.8136877615678
+
+Move counter: 1
+Frame: 51.0
+Knee angle right side (left cam): 88.244481596115
+Knee angle left side (right cam): 99.3714914865735
+Right knee angle (front cam): 140.00066008210013
+Left knee angle (front cam): 134.80766414497754
+
+Move counter: 1
+Frame: 52.0
+Knee angle right side (left cam): 88.23161895467919
+Knee angle left side (right cam): 97.28205982668125
+Right knee angle (front cam): 141.06701758169234
+Left knee angle (front cam): 132.12634981380145
+
+Move counter: 1
+Frame: 53.0
+Knee angle right side (left cam): 87.97996811206711
+Knee angle left side (right cam): 97.29219420956304
+Right knee angle (front cam): 141.05599519513552
+Left knee angle (front cam): 132.14058122283174
+
+Move counter: 1
+Frame: 54.0
+Knee angle right side (left cam): 87.97586106409034
+Knee angle left side (right cam): 95.05290921097134
+Right knee angle (front cam): 138.60198204063738
+Left knee angle (front cam): 130.50761188606626
+
+Move counter: 1
+Frame: 55.0
+Knee angle right side (left cam): 85.45847547574454
+Knee angle left side (right cam): 95.05085428679008
+Right knee angle (front cam): 138.35016237301676
+Left knee angle (front cam): 128.86874778895802
+
+Move counter: 1
+Frame: 56.0
+Knee angle right side (left cam): 85.43665028364217
+Knee angle left side (right cam): 92.74099318385647
+Right knee angle (front cam): 134.64762942010825
+Left knee angle (front cam): 128.85152502924566
+
+Move counter: 1
+Frame: 57.0
+Knee angle right side (left cam): 85.37532504875892
+Knee angle left side (right cam): 92.73482230906491
+Right knee angle (front cam): 134.64878979034688
+Left knee angle (front cam): 128.85303561721418
+
+Move counter: 1
+Frame: 58.0
+Knee angle right side (left cam): 85.38857072935366
+Knee angle left side (right cam): 92.66377430503186
+Right knee angle (front cam): 134.58371448909463
+Left knee angle (front cam): 128.79667366609672
+
+Move counter: 1
+Frame: 59.0
+Knee angle right side (left cam): 85.363599456537
+Knee angle left side (right cam): 92.67428592207484
+Right knee angle (front cam): 134.5524302748332
+Left knee angle (front cam): 128.79753697981687
+
+Move counter: 1
+Frame: 60.0
+Knee angle right side (left cam): 85.3406652629768
+Knee angle left side (right cam): 94.15049000657223
+Right knee angle (front cam): 134.52264897325912
+Left knee angle (front cam): 126.79383548879372
+
+Move counter: 1
+Frame: 61.0
+Knee angle right side (left cam): 85.38061162516465
+Knee angle left side (right cam): 90.44565723305016
+Right knee angle (front cam): 134.5650133692185
+Left knee angle (front cam): 126.80419905607705
+
+Move counter: 1
+Frame: 62.0
+Knee angle right side (left cam): 85.38528918471653
+Knee angle left side (right cam): 91.3032586967311
+Right knee angle (front cam): 134.57628684809188
+Left knee angle (front cam): 128.0676534798926
+
+Move counter: 1
+Frame: 63.0
+Knee angle right side (left cam): 85.50475331673502
+Knee angle left side (right cam): 92.72044217542279
+Right knee angle (front cam): 134.57084400826602
+Left knee angle (front cam): 128.06580148561474
+
+Move counter: 1
+Frame: 64.0
+Knee angle right side (left cam): 85.51156815607865
+Knee angle left side (right cam): 98.72541199690082
+Right knee angle (front cam): 138.43277742345143
+Left knee angle (front cam): 128.16706733039848
+
+Move counter: 1
+Frame: 65.0
+Knee angle right side (left cam): 89.84784743902321
+Knee angle left side (right cam): 98.72535502061648
+Right knee angle (front cam): 138.4335406558389
+Left knee angle (front cam): 128.1674040127788
+
+Move counter: 1
+Frame: 66.0
+Knee angle right side (left cam): 89.85418380851014
+Knee angle left side (right cam): 97.31157106017682
+Right knee angle (front cam): 139.54513288561418
+Left knee angle (front cam): 129.95033201626646
+
+Move counter: 1
+Frame: 67.0
+Knee angle right side (left cam): 88.61972175971123
+Knee angle left side (right cam): 97.3106953841959
+Right knee angle (front cam): 139.52739593194406
+Left knee angle (front cam): 129.9557979999753
+
+Move counter: 1
+Frame: 68.0
+Knee angle right side (left cam): 88.61374734948096
+Knee angle left side (right cam): 97.3351852040933
+Right knee angle (front cam): 137.54844377532484
+Left knee angle (front cam): 133.35709252109726
+
+Move counter: 1
+Frame: 69.0
+Knee angle right side (left cam): 88.31646346770266
+Knee angle left side (right cam): 97.34824748571506
+Right knee angle (front cam): 137.5454662132057
+Left knee angle (front cam): 133.34081492076047
+
+Move counter: 1
+Frame: 70.0
+Knee angle right side (left cam): 88.31398274148184
+Knee angle left side (right cam): 101.00854156869575
+Right knee angle (front cam): 140.04046812133998
+Left knee angle (front cam): 134.79298539077186
+
+Move counter: 1
+Frame: 71.0
+Knee angle right side (left cam): 98.48784914598835
+Knee angle left side (right cam): 100.99720783635838
+Right knee angle (front cam): 140.0373616508276
+Left knee angle (front cam): 134.78498937840817
+
+Move counter: 1
+Frame: 72.0
+Knee angle right side (left cam): 98.49569093294116
+Knee angle left side (right cam): 103.07531693796578
+Right knee angle (front cam): 141.20508434027883
+Left knee angle (front cam): 136.08201672105665
+
+Move counter: 1
+Frame: 73.0
+Knee angle right side (left cam): 106.23015370964448
+Knee angle left side (right cam): 101.80383539380355
+Right knee angle (front cam): 141.2062668117147
+Left knee angle (front cam): 136.07705781539937
+
+Move counter: 1
+Frame: 74.0
+Knee angle right side (left cam): 106.23394443531463
+Knee angle left side (right cam): 105.03797707356402
+Right knee angle (front cam): 148.6756044219314
+Left knee angle (front cam): 136.25435192912164
+
+Move counter: 1
+Frame: 75.0
+Knee angle right side (left cam): 111.20338186076013
+Knee angle left side (right cam): 105.0198554202052
+Right knee angle (front cam): 148.71764442938195
+Left knee angle (front cam): 136.25445625325392
+
+Move counter: 1
+Frame: 76.0
+Knee angle right side (left cam): 111.20857297097264
+Knee angle left side (right cam): 106.24470623439946
+Right knee angle (front cam): 148.693735682627
+Left knee angle (front cam): 137.46303193885586
+
+Move counter: 1
+Frame: 77.0
+Knee angle right side (left cam): 115.35392447852567
+Knee angle left side (right cam): 106.26013551526171
+Right knee angle (front cam): 148.69298373707133
+Left knee angle (front cam): 137.46124653463932
+
+Move counter: 1
+Frame: 78.0
+Knee angle right side (left cam): 115.35572144776005
+Knee angle left side (right cam): 115.23425047948264
+Right knee angle (front cam): 149.6129807669965
+Left knee angle (front cam): 137.58408268364937
+
+Move counter: 1
+Frame: 79.0
+Knee angle right side (left cam): 121.320904169257
+Knee angle left side (right cam): 115.21441352273783
+Right knee angle (front cam): 149.6093406000112
+Left knee angle (front cam): 137.57901610310603
+
+Move counter: 1
+Frame: 80.0
+Knee angle right side (left cam): 121.31937646657471
+Knee angle left side (right cam): 122.9815819595159
+Right knee angle (front cam): 151.35855716747247
+Left knee angle (front cam): 146.23216771814262
+
+Move counter: 1
+Frame: 81.0
+Knee angle right side (left cam): 129.41760694259017
+Knee angle left side (right cam): 122.98491602978878
+Right knee angle (front cam): 151.35811496820986
+Left knee angle (front cam): 146.23055880194545
+
+Move counter: 1
+Frame: 82.0
+Knee angle right side (left cam): 128.11274033450604
+Knee angle left side (right cam): 132.25314872910872
+Right knee angle (front cam): 154.74884735898226
+Left knee angle (front cam): 150.8903018082032
+
+Move counter: 1
+Frame: 83.0
+Knee angle right side (left cam): 131.07604329831867
+Knee angle left side (right cam): 132.24875101344537
+Right knee angle (front cam): 154.75200711450594
+Left knee angle (front cam): 150.892550857614
+
+Move counter: 1
+Frame: 84.0
+Knee angle right side (left cam): 131.0786560013577
+Knee angle left side (right cam): 140.86703701024535
+Right knee angle (front cam): 156.13595895861278
+Left knee angle (front cam): 154.05810906084076
+
+Move counter: 1
+Frame: 85.0
+Knee angle right side (left cam): 137.967387415251
+Knee angle left side (right cam): 142.884554018217
+Right knee angle (front cam): 156.13595702654266
+Left knee angle (front cam): 154.07133441290995
+
+Move counter: 1
+Frame: 86.0
+Knee angle right side (left cam): 137.9650865872266
+Knee angle left side (right cam): 145.21092299234462
+Right knee angle (front cam): 159.38998268646915
+Left knee angle (front cam): 163.40784477529536
+
+Move counter: 1
+Frame: 87.0
+Knee angle right side (left cam): 146.77103258164274
+Knee angle left side (right cam): 147.83391661879656
+Right knee angle (front cam): 159.38915108748225
+Left knee angle (front cam): 163.47810508625793
+
+Move counter: 1
+Frame: 88.0
+Knee angle right side (left cam): 144.3307333882432
+Knee angle left side (right cam): 151.65049554089208
+Right knee angle (front cam): 159.84196940705598
+Left knee angle (front cam): 168.97069041457243
+
+Move counter: 1
+Frame: 89.0
+Knee angle right side (left cam): 148.47514879541117
+Knee angle left side (right cam): 151.66130652647487
+Right knee angle (front cam): 159.84578294185448
+Left knee angle (front cam): 168.9737287933084
+
+Move counter: 1
+Frame: 90.0
+Knee angle right side (left cam): 148.49034342560657
+Knee angle left side (right cam): 159.24300454382134
+Right knee angle (front cam): 159.8087397436796
+Left knee angle (front cam): 169.1545701215104
+
+Move counter: 2
+Frame: 130.0
+Knee angle right side (left cam): 158.54879319978565
+Knee angle left side (right cam): 159.41925952309768
+Right knee angle (front cam): 159.69336365974377
+Left knee angle (front cam): 163.44392056630272
+
+Move counter: 2
+Frame: 131.0
+Knee angle right side (left cam): 156.23435114888915
+Knee angle left side (right cam): 159.41361213136548
+Right knee angle (front cam): 159.69600674410734
+Left knee angle (front cam): 163.43966657074932
+
+Move counter: 2
+Frame: 132.0
+Knee angle right side (left cam): 148.7231544611186
+Knee angle left side (right cam): 158.7113047048308
+Right knee angle (front cam): 154.38105845366206
+Left knee angle (front cam): 152.43318904305556
+
+Move counter: 2
+Frame: 133.0
+Knee angle right side (left cam): 148.72693549406898
+Knee angle left side (right cam): 158.70915420040637
+Right knee angle (front cam): 154.38522773518292
+Left knee angle (front cam): 152.43556417807883
+
+Move counter: 2
+Frame: 134.0
+Knee angle right side (left cam): 142.22763522271256
+Knee angle left side (right cam): 143.1073690493908
+Right knee angle (front cam): 153.4915210756055
+Left knee angle (front cam): 152.4459718102868
+
+Move counter: 2
+Frame: 135.0
+Knee angle right side (left cam): 142.24222074842703
+Knee angle left side (right cam): 143.09778574219533
+Right knee angle (front cam): 153.4960038539064
+Left knee angle (front cam): 157.63466464405343
+
+Move counter: 2
+Frame: 136.0
+Knee angle right side (left cam): 128.76892157405626
+Knee angle left side (right cam): 134.28588312337774
+Right knee angle (front cam): 152.4469814969222
+Left knee angle (front cam): 150.99156325347576
+
+Move counter: 2
+Frame: 137.0
+Knee angle right side (left cam): 128.7595595360776
+Knee angle left side (right cam): 134.2898916524596
+Right knee angle (front cam): 152.44766136058925
+Left knee angle (front cam): 150.99134126182207
+
+Move counter: 2
+Frame: 138.0
+Knee angle right side (left cam): 115.3192488051251
+Knee angle left side (right cam): 121.44458157303329
+Right knee angle (front cam): 151.16776118803114
+Left knee angle (front cam): 147.11056442725172
+
+Move counter: 2
+Frame: 139.0
+Knee angle right side (left cam): 115.31952940528328
+Knee angle left side (right cam): 121.43381190576254
+Right knee angle (front cam): 151.17354586764046
+Left knee angle (front cam): 150.07299759411927
+
+Move counter: 2
+Frame: 140.0
+Knee angle right side (left cam): 111.72664692904608
+Knee angle left side (right cam): 114.02434712471698
+Right knee angle (front cam): 150.27466856697401
+Left knee angle (front cam): 139.85298142001855
+
+Move counter: 2
+Frame: 141.0
+Knee angle right side (left cam): 111.72645001068827
+Knee angle left side (right cam): 114.02382069504428
+Right knee angle (front cam): 150.27776340888545
+Left knee angle (front cam): 139.85164953311073
+
+Move counter: 2
+Frame: 142.0
+Knee angle right side (left cam): 110.00715419866812
+Knee angle left side (right cam): 108.6815022201584
+Right knee angle (front cam): 149.4152286938624
+Left knee angle (front cam): 137.62269996199552
+
+Move counter: 2
+Frame: 143.0
+Knee angle right side (left cam): 110.01568904774248
+Knee angle left side (right cam): 108.682510792908
+Right knee angle (front cam): 149.41895044685793
+Left knee angle (front cam): 137.62484029797332
+
+Move counter: 2
+Frame: 144.0
+Knee angle right side (left cam): 106.80630774701652
+Knee angle left side (right cam): 105.59760004566331
+Right knee angle (front cam): 142.56794025840176
+Left knee angle (front cam): 137.48078317142532
+
+Move counter: 2
+Frame: 145.0
+Knee angle right side (left cam): 106.80346726111152
+Knee angle left side (right cam): 105.60194854165461
+Right knee angle (front cam): 142.56015824882903
+Left knee angle (front cam): 137.4775803808041
+
+Move counter: 2
+Frame: 146.0
+Knee angle right side (left cam): 105.59859525631882
+Knee angle left side (right cam): 103.67446022139316
+Right knee angle (front cam): 145.64955898143413
+Left knee angle (front cam): 136.21864828702329
+
+Move counter: 2
+Frame: 147.0
+Knee angle right side (left cam): 105.59553988751475
+Knee angle left side (right cam): 103.69616191489258
+Right knee angle (front cam): 145.6544630071241
+Left knee angle (front cam): 136.2271368796198
+
+Move counter: 2
+Frame: 148.0
+Knee angle right side (left cam): 101.16088238565713
+Knee angle left side (right cam): 105.86309705296517
+Right knee angle (front cam): 148.42338949781342
+Left knee angle (front cam): 135.9521086759036
+
+Move counter: 2
+Frame: 149.0
+Knee angle right side (left cam): 101.84949004284827
+Knee angle left side (right cam): 105.8692605138209
+Right knee angle (front cam): 148.42377420816814
+Left knee angle (front cam): 135.9522779937034
+
+Move counter: 2
+Frame: 150.0
+Knee angle right side (left cam): 96.65061030631666
+Knee angle left side (right cam): 103.91409872692317
+Right knee angle (front cam): 141.9859581217607
+Left knee angle (front cam): 134.62013968403093
+
+Move counter: 2
+Frame: 151.0
+Knee angle right side (left cam): 96.62171808187605
+Knee angle left side (right cam): 103.90285148930886
+Right knee angle (front cam): 141.9807343668265
+Left knee angle (front cam): 134.6064178228906
+
+Move counter: 2
+Frame: 152.0
+Knee angle right side (left cam): 91.69412438522092
+Knee angle left side (right cam): 98.08873853734484
+Right knee angle (front cam): 141.9348005208358
+Left knee angle (front cam): 131.80899785346097
+
+Move counter: 2
+Frame: 153.0
+Knee angle right side (left cam): 93.2669321277736
+Knee angle left side (right cam): 98.09494065298689
+Right knee angle (front cam): 141.93825111502488
+Left knee angle (front cam): 131.80677310111724
+
+Move counter: 2
+Frame: 154.0
+Knee angle right side (left cam): 88.80058912478997
+Knee angle left side (right cam): 98.08697287341055
+Right knee angle (front cam): 138.32322811764305
+Left knee angle (front cam): 128.68451096012052
+
+Move counter: 2
+Frame: 155.0
+Knee angle right side (left cam): 89.45134136118514
+Knee angle left side (right cam): 98.08506228149412
+Right knee angle (front cam): 138.331633182674
+Left knee angle (front cam): 128.70144157320985
+
+Move counter: 2
+Frame: 156.0
+Knee angle right side (left cam): 89.29688221722058
+Knee angle left side (right cam): 93.8927316930696
+Right knee angle (front cam): 133.6095762415598
+Left knee angle (front cam): 126.6156423881329
+
+Move counter: 2
+Frame: 157.0
+Knee angle right side (left cam): 84.55310294726496
+Knee angle left side (right cam): 93.89093753012233
+Right knee angle (front cam): 133.6079160670703
+Left knee angle (front cam): 126.61620707936306
+
+Move counter: 2
+Frame: 158.0
+Knee angle right side (left cam): 89.32420941369212
+Knee angle left side (right cam): 91.44479868105036
+Right knee angle (front cam): 133.44620295613964
+Left knee angle (front cam): 125.26525092578325
+
+Move counter: 2
+Frame: 159.0
+Knee angle right side (left cam): 87.70835121808368
+Knee angle left side (right cam): 89.1025990337794
+Right knee angle (front cam): 133.43955207718267
+Left knee angle (front cam): 125.26760892487499
+
+Move counter: 2
+Frame: 160.0
+Knee angle right side (left cam): 87.49109389734772
+Knee angle left side (right cam): 87.528639945743
+Right knee angle (front cam): 127.18581743587477
+Left knee angle (front cam): 125.22263321601727
+
+Move counter: 2
+Frame: 161.0
+Knee angle right side (left cam): 87.50553612736995
+Knee angle left side (right cam): 85.32237046575759
+Right knee angle (front cam): 127.1818311479102
+Left knee angle (front cam): 125.2248960398816
+
+Move counter: 2
+Frame: 162.0
+Knee angle right side (left cam): 87.50899046241769
+Knee angle left side (right cam): 87.53230293338417
+Right knee angle (front cam): 127.13060994950872
+Left knee angle (front cam): 125.23437411904811
+
+Move counter: 2
+Frame: 163.0
+Knee angle right side (left cam): 86.07919574546965
+Knee angle left side (right cam): 87.5205263782641
+Right knee angle (front cam): 127.1644378349279
+Left knee angle (front cam): 125.22721091333474
+
+Move counter: 2
+Frame: 164.0
+Knee angle right side (left cam): 86.08527736289585
+Knee angle left side (right cam): 85.32905533424614
+Right knee angle (front cam): 123.62150636652753
+Left knee angle (front cam): 125.23678185377025
+
+Move counter: 2
+Frame: 165.0
+Knee angle right side (left cam): 87.12019729951976
+Knee angle left side (right cam): 85.32204191992943
+Right knee angle (front cam): 123.62179759928088
+Left knee angle (front cam): 125.24797844148259
+
+Move counter: 2
+Frame: 166.0
+Knee angle right side (left cam): 87.13396323579836
+Knee angle left side (right cam): 85.34886373263086
+Right knee angle (front cam): 123.84209421014806
+Left knee angle (front cam): 125.24457446995312
+
+Move counter: 2
+Frame: 167.0
+Knee angle right side (left cam): 87.11264273793964
+Knee angle left side (right cam): 85.3414229912209
+Right knee angle (front cam): 123.84053226466638
+Left knee angle (front cam): 125.2401665921493
+
+Move counter: 2
+Frame: 168.0
+Knee angle right side (left cam): 87.13878380695077
+Knee angle left side (right cam): 87.73327124027074
+Right knee angle (front cam): 125.46533189996066
+Left knee angle (front cam): 125.23480166289423
+
+Move counter: 2
+Frame: 169.0
+Knee angle right side (left cam): 86.44068722416672
+Knee angle left side (right cam): 87.73579263307798
+Right knee angle (front cam): 125.45280819047183
+Left knee angle (front cam): 125.24802468319949
+
+Move counter: 2
+Frame: 170.0
+Knee angle right side (left cam): 85.04844284265734
+Knee angle left side (right cam): 92.35884117873988
+Right knee angle (front cam): 127.2905078597476
+Left knee angle (front cam): 126.67838841587518
+
+Move counter: 2
+Frame: 171.0
+Knee angle right side (left cam): 88.77828639766925
+Knee angle left side (right cam): 92.35866371698471
+Right knee angle (front cam): 125.52537428678683
+Left knee angle (front cam): 126.67262707572796
+
+Move counter: 2
+Frame: 172.0
+Knee angle right side (left cam): 88.77064727371425
+Knee angle left side (right cam): 96.1077626688081
+Right knee angle (front cam): 137.90011003795192
+Left knee angle (front cam): 125.4941368178003
+
+Move counter: 2
+Frame: 173.0
+Knee angle right side (left cam): 90.94380823558163
+Knee angle left side (right cam): 96.10426160827348
+Right knee angle (front cam): 137.9259203177457
+Left knee angle (front cam): 125.48083544283926
+
+Move counter: 2
+Frame: 174.0
+Knee angle right side (left cam): 90.9489844928953
+Knee angle left side (right cam): 98.13607570612774
+Right knee angle (front cam): 142.87890613034193
+Left knee angle (front cam): 131.63817847132265
+
+Move counter: 2
+Frame: 175.0
+Knee angle right side (left cam): 91.88007638406094
+Knee angle left side (right cam): 95.97496390324562
+Right knee angle (front cam): 142.87497525944994
+Left knee angle (front cam): 131.6405261259675
+
+Move counter: 2
+Frame: 176.0
+Knee angle right side (left cam): 91.86636763163183
+Knee angle left side (right cam): 104.59273416381791
+Right knee angle (front cam): 146.11256442289428
+Left knee angle (front cam): 134.5280784435946
+
+Move counter: 2
+Frame: 177.0
+Knee angle right side (left cam): 97.31785531448229
+Knee angle left side (right cam): 104.59142005143002
+Right knee angle (front cam): 146.11951286922186
+Left knee angle (front cam): 134.5319734407753
+
+Move counter: 2
+Frame: 178.0
+Knee angle right side (left cam): 97.32556729814466
+Knee angle left side (right cam): 103.49836412143753
+Right knee angle (front cam): 147.67789715855614
+Left knee angle (front cam): 135.88459941244
+
+Move counter: 2
+Frame: 179.0
+Knee angle right side (left cam): 105.5266022080859
+Knee angle left side (right cam): 103.51503948874708
+Right knee angle (front cam): 147.67625249822316
+Left knee angle (front cam): 135.88917710115018
+
+Move counter: 2
+Frame: 180.0
+Knee angle right side (left cam): 105.52193494191644
+Knee angle left side (right cam): 105.44771050727057
+Right knee angle (front cam): 151.8411578398251
+Left knee angle (front cam): 135.98184995034876
+
+Move counter: 2
+Frame: 181.0
+Knee angle right side (left cam): 108.68970573418645
+Knee angle left side (right cam): 105.49826228399813
+Right knee angle (front cam): 148.8351281168533
+Left knee angle (front cam): 135.98236129200268
+
+Move counter: 2
+Frame: 182.0
+Knee angle right side (left cam): 108.68809389640897
+Knee angle left side (right cam): 106.94376292806496
+Right knee angle (front cam): 146.46851106248187
+Left knee angle (front cam): 137.30636077006588
+
+Move counter: 2
+Frame: 183.0
+Knee angle right side (left cam): 113.43185418942312
+Knee angle left side (right cam): 106.94743492062398
+Right knee angle (front cam): 146.47638016828424
+Left knee angle (front cam): 137.30177045220748
+
+Move counter: 2
+Frame: 184.0
+Knee angle right side (left cam): 113.42826277741806
+Knee angle left side (right cam): 114.42551999172116
+Right knee angle (front cam): 150.38739396859862
+Left knee angle (front cam): 144.1747939375539
+
+Move counter: 2
+Frame: 185.0
+Knee angle right side (left cam): 115.22304136393802
+Knee angle left side (right cam): 114.42369270241589
+Right knee angle (front cam): 150.39119414892681
+Left knee angle (front cam): 144.17426090767052
+
+Move counter: 2
+Frame: 186.0
+Knee angle right side (left cam): 115.22416284971717
+Knee angle left side (right cam): 130.0463473506633
+Right knee angle (front cam): 151.9431999273022
+Left knee angle (front cam): 147.7940962790462
+
+Move counter: 2
+Frame: 187.0
+Knee angle right side (left cam): 125.16852766658684
+Knee angle left side (right cam): 130.0526347289501
+Right knee angle (front cam): 151.9447384193609
+Left knee angle (front cam): 147.79042186332507
+
+Move counter: 2
+Frame: 188.0
+Knee angle right side (left cam): 125.17478965959779
+Knee angle left side (right cam): 142.57120668220665
+Right knee angle (front cam): 153.75028529893027
+Left knee angle (front cam): 157.60003876786732
+
+Move counter: 2
+Frame: 189.0
+Knee angle right side (left cam): 140.85082778505443
+Knee angle left side (right cam): 140.4469828024025
+Right knee angle (front cam): 153.75017061199617
+Left knee angle (front cam): 157.59968803495778
+
+Move counter: 2
+Frame: 190.0
+Knee angle right side (left cam): 142.96860196208448
+Knee angle left side (right cam): 153.36406820193028
+Right knee angle (front cam): 156.70049927028407
+Left knee angle (front cam): 168.85978993126318
+
+Move counter: 2
+Frame: 191.0
+Knee angle right side (left cam): 153.2837809210842
+Knee angle left side (right cam): 153.3519389051124
+Right knee angle (front cam): 156.69846153767728
+Left knee angle (front cam): 168.86056836686427
+
+Move counter: 3
+Frame: 224.0
+Knee angle right side (left cam): 151.8496392824502
+Knee angle left side (right cam): 158.94173190865857
+Right knee angle (front cam): 157.2488993508341
+Left knee angle (front cam): 157.95627706703456
+
+Move counter: 3
+Frame: 225.0
+Knee angle right side (left cam): 149.54081560231165
+Knee angle left side (right cam): 158.94223134396736
+Right knee angle (front cam): 157.2518713971494
+Left knee angle (front cam): 157.95642563422302
+
+Move counter: 3
+Frame: 226.0
+Knee angle right side (left cam): 153.15029285816777
+Knee angle left side (right cam): 156.19621970662442
+Right knee angle (front cam): 157.2447864286185
+Left knee angle (front cam): 157.9543728494154
+
+Move counter: 3
+Frame: 227.0
+Knee angle right side (left cam): 153.1731088930412
+Knee angle left side (right cam): 156.2013813856102
+Right knee angle (front cam): 154.26758274509365
+Left knee angle (front cam): 149.55641091671816
+
+Move counter: 3
+Frame: 228.0
+Knee angle right side (left cam): 140.762175990669
+Knee angle left side (right cam): 140.40643204170192
+Right knee angle (front cam): 154.2685655703046
+Left knee angle (front cam): 149.55552064864617
+
+Move counter: 3
+Frame: 229.0
+Knee angle right side (left cam): 140.761773761314
+Knee angle left side (right cam): 140.40824452625733
+Right knee angle (front cam): 153.7460304107678
+Left knee angle (front cam): 152.20412236025743
+
+Move counter: 3
+Frame: 230.0
+Knee angle right side (left cam): 123.19968307210983
+Knee angle left side (right cam): 120.73168927917389
+Right knee angle (front cam): 151.73205379401222
+Left knee angle (front cam): 141.78139805088966
+
+Move counter: 3
+Frame: 231.0
+Knee angle right side (left cam): 124.46647798746733
+Knee angle left side (right cam): 120.71575884448164
+Right knee angle (front cam): 151.72989645733188
+Left knee angle (front cam): 141.77969344069243
+
+Move counter: 3
+Frame: 232.0
+Knee angle right side (left cam): 111.29020955597916
+Knee angle left side (right cam): 117.07683070738415
+Right knee angle (front cam): 151.73002221883445
+Left knee angle (front cam): 141.77759409148578
+
+Move counter: 3
+Frame: 233.0
+Knee angle right side (left cam): 111.28784955969725
+Knee angle left side (right cam): 117.07431637157254
+Right knee angle (front cam): 147.30796343886792
+Left knee angle (front cam): 139.67957750086092
+
+Move counter: 3
+Frame: 234.0
+Knee angle right side (left cam): 111.5396448681402
+Knee angle left side (right cam): 110.23163403941247
+Right knee angle (front cam): 147.3095903779292
+Left knee angle (front cam): 139.67662785786976
+
+Move counter: 3
+Frame: 235.0
+Knee angle right side (left cam): 111.53402689956084
+Knee angle left side (right cam): 110.22847631158372
+Right knee angle (front cam): 143.48685730511482
+Left knee angle (front cam): 137.40540177097063
+
+Move counter: 3
+Frame: 236.0
+Knee angle right side (left cam): 106.62419693220583
+Knee angle left side (right cam): 107.16312472534746
+Right knee angle (front cam): 142.0981853475004
+Left knee angle (front cam): 137.27028841329346
+
+Move counter: 3
+Frame: 237.0
+Knee angle right side (left cam): 106.62379550810549
+Knee angle left side (right cam): 107.16227530216867
+Right knee angle (front cam): 142.09858889716384
+Left knee angle (front cam): 137.26859464421253
+
+Move counter: 3
+Frame: 238.0
+Knee angle right side (left cam): 105.18551103868244
+Knee angle left side (right cam): 105.3922284094916
+Right knee angle (front cam): 142.09909947447298
+Left knee angle (front cam): 137.26865210140744
+
+Move counter: 3
+Frame: 239.0
+Knee angle right side (left cam): 105.19423939468057
+Knee angle left side (right cam): 105.38598508704372
+Right knee angle (front cam): 142.13052560196024
+Left knee angle (front cam): 135.97100116660897
+
+Move counter: 3
+Frame: 240.0
+Knee angle right side (left cam): 101.50643453737113
+Knee angle left side (right cam): 101.49238591545851
+Right knee angle (front cam): 142.1421040145259
+Left knee angle (front cam): 135.9736920100635
+
+Move counter: 3
+Frame: 241.0
+Knee angle right side (left cam): 101.50785786737406
+Knee angle left side (right cam): 101.49456189806168
+Right knee angle (front cam): 142.09216564931512
+Left knee angle (front cam): 135.8881333404077
+
+Move counter: 3
+Frame: 242.0
+Knee angle right side (left cam): 95.39321417313742
+Knee angle left side (right cam): 99.93476887491951
+Right knee angle (front cam): 142.0949054464679
+Left knee angle (front cam): 135.88628888253453
+
+Move counter: 3
+Frame: 243.0
+Knee angle right side (left cam): 97.21478977803697
+Knee angle left side (right cam): 99.92701947440992
+Right knee angle (front cam): 141.0483396310905
+Left knee angle (front cam): 135.62474178768431
+
+Move counter: 3
+Frame: 244.0
+Knee angle right side (left cam): 91.25628378639493
+Knee angle left side (right cam): 99.76316275147244
+Right knee angle (front cam): 141.04886503757763
+Left knee angle (front cam): 135.62445744751255
+
+Move counter: 3
+Frame: 245.0
+Knee angle right side (left cam): 93.16546085586877
+Knee angle left side (right cam): 99.76111599658348
+Right knee angle (front cam): 139.02042208924885
+Left knee angle (front cam): 134.56870079987573
+
+Move counter: 3
+Frame: 246.0
+Knee angle right side (left cam): 91.1156534332055
+Knee angle left side (right cam): 100.10897758572483
+Right knee angle (front cam): 139.02726775159041
+Left knee angle (front cam): 134.5692535391413
+
+Move counter: 3
+Frame: 247.0
+Knee angle right side (left cam): 91.09315285708415
+Knee angle left side (right cam): 100.11382260459848
+Right knee angle (front cam): 140.19400396463507
+Left knee angle (front cam): 133.27885850777687
+
+Move counter: 3
+Frame: 248.0
+Knee angle right side (left cam): 91.4870413304494
+Knee angle left side (right cam): 94.52982054252126
+Right knee angle (front cam): 140.1982464915312
+Left knee angle (front cam): 133.27564549633902
+
+Move counter: 3
+Frame: 249.0
+Knee angle right side (left cam): 89.57022712141115
+Knee angle left side (right cam): 94.52764779210894
+Right knee angle (front cam): 134.9757497782875
+Left knee angle (front cam): 130.41349511004296
+
+Move counter: 3
+Frame: 250.0
+Knee angle right side (left cam): 89.49506190649932
+Knee angle left side (right cam): 90.12345452714683
+Right knee angle (front cam): 134.982152964007
+Left knee angle (front cam): 130.41305438514803
+
+Move counter: 3
+Frame: 251.0
+Knee angle right side (left cam): 89.49598181227788
+Knee angle left side (right cam): 92.32809187458902
+Right knee angle (front cam): 132.51623254416074
+Left knee angle (front cam): 126.65592582855284
+
+Move counter: 3
+Frame: 252.0
+Knee angle right side (left cam): 89.43599641405476
+Knee angle left side (right cam): 89.9444062705592
+Right knee angle (front cam): 132.5147909499894
+Left knee angle (front cam): 126.65670665096597
+
+Move counter: 3
+Frame: 253.0
+Knee angle right side (left cam): 89.42312683733158
+Knee angle left side (right cam): 89.94781809426658
+Right knee angle (front cam): 130.55986611928125
+Left knee angle (front cam): 124.46960674089432
+
+Move counter: 3
+Frame: 254.0
+Knee angle right side (left cam): 89.37417622065654
+Knee angle left side (right cam): 87.56847904335478
+Right knee angle (front cam): 130.56937725583757
+Left knee angle (front cam): 124.46798519318344
+
+Move counter: 3
+Frame: 255.0
+Knee angle right side (left cam): 89.36987323485434
+Knee angle left side (right cam): 87.58008528918299
+Right knee angle (front cam): 130.47766387761027
+Left knee angle (front cam): 124.50939457090173
+
+Move counter: 3
+Frame: 256.0
+Knee angle right side (left cam): 87.24901818136344
+Knee angle left side (right cam): 88.79439761478947
+Right knee angle (front cam): 130.47902079161796
+Left knee angle (front cam): 124.51016360314988
+
+Move counter: 3
+Frame: 257.0
+Knee angle right side (left cam): 87.2678959115601
+Knee angle left side (right cam): 88.78626695449988
+Right knee angle (front cam): 130.36668525649705
+Left knee angle (front cam): 124.51325897343524
+
+Move counter: 3
+Frame: 258.0
+Knee angle right side (left cam): 85.04599963668117
+Knee angle left side (right cam): 87.44374679784495
+Right knee angle (front cam): 130.35860755572972
+Left knee angle (front cam): 124.53686784609107
+
+Move counter: 3
+Frame: 259.0
+Knee angle right side (left cam): 85.71759769691296
+Knee angle left side (right cam): 88.8190819364017
+Right knee angle (front cam): 130.3389817088935
+Left knee angle (front cam): 124.5599145486916
+
+Move counter: 3
+Frame: 260.0
+Knee angle right side (left cam): 85.69346581896845
+Knee angle left side (right cam): 88.90567616293015
+Right knee angle (front cam): 130.33990393494614
+Left knee angle (front cam): 124.55976658410955
+
+Move counter: 3
+Frame: 261.0
+Knee angle right side (left cam): 85.67971407066025
+Knee angle left side (right cam): 86.73125669051271
+Right knee angle (front cam): 130.1815143457294
+Left knee angle (front cam): 124.59300788722727
+
+Move counter: 3
+Frame: 262.0
+Knee angle right side (left cam): 89.23528179383452
+Knee angle left side (right cam): 86.81378141455535
+Right knee angle (front cam): 130.18792554899238
+Left knee angle (front cam): 124.59932383815479
+
+Move counter: 3
+Frame: 263.0
+Knee angle right side (left cam): 87.75671862837957
+Knee angle left side (right cam): 87.55537116511424
+Right knee angle (front cam): 131.66683833721248
+Left knee angle (front cam): 124.58892645479534
+
+Move counter: 3
+Frame: 264.0
+Knee angle right side (left cam): 88.59890276053513
+Knee angle left side (right cam): 93.740372008711
+Right knee angle (front cam): 131.66666732542305
+Left knee angle (front cam): 124.58785075436698
+
+Move counter: 3
+Frame: 265.0
+Knee angle right side (left cam): 88.60007950629576
+Knee angle left side (right cam): 93.73200368932106
+Right knee angle (front cam): 131.70097111932185
+Left knee angle (front cam): 124.53890267097796
+
+Move counter: 3
+Frame: 266.0
+Knee angle right side (left cam): 88.66971715867409
+Knee angle left side (right cam): 90.12142493753198
+Right knee angle (front cam): 131.70889941336915
+Left knee angle (front cam): 124.55862287775331
+
+Move counter: 3
+Frame: 267.0
+Knee angle right side (left cam): 87.52201429744039
+Knee angle left side (right cam): 92.308818158144
+Right knee angle (front cam): 133.6227201179926
+Left knee angle (front cam): 126.6872324316071
+
+Move counter: 3
+Frame: 268.0
+Knee angle right side (left cam): 90.9433539226447
+Knee angle left side (right cam): 96.56263133125911
+Right knee angle (front cam): 133.62365898114933
+Left knee angle (front cam): 126.68642054707527
+
+Move counter: 3
+Frame: 269.0
+Knee angle right side (left cam): 90.94476604924775
+Knee angle left side (right cam): 96.56021156407945
+Right knee angle (front cam): 139.07248182280318
+Left knee angle (front cam): 130.2849255379434
+
+Move counter: 3
+Frame: 270.0
+Knee angle right side (left cam): 89.87381882473017
+Knee angle left side (right cam): 99.74239267799966
+Right knee angle (front cam): 139.07352078272572
+Left knee angle (front cam): 130.28736815946436
+
+Move counter: 3
+Frame: 271.0
+Knee angle right side (left cam): 94.05271376762957
+Knee angle left side (right cam): 99.71416034935083
+Right knee angle (front cam): 140.97077958103282
+Left knee angle (front cam): 133.30606584548974
+
+Move counter: 3
+Frame: 272.0
+Knee angle right side (left cam): 100.02321689818179
+Knee angle left side (right cam): 101.78200670847531
+Right knee angle (front cam): 140.96890152935538
+Left knee angle (front cam): 133.30030068643865
+
+Move counter: 3
+Frame: 273.0
+Knee angle right side (left cam): 100.02437439228544
+Knee angle left side (right cam): 101.79075534965489
+Right knee angle (front cam): 144.30015418010157
+Left knee angle (front cam): 135.88742914403886
+
+Move counter: 3
+Frame: 274.0
+Knee angle right side (left cam): 105.19835075891251
+Knee angle left side (right cam): 107.42803905167845
+Right knee angle (front cam): 144.30488743537555
+Left knee angle (front cam): 135.89192286273587
+
+Move counter: 3
+Frame: 275.0
+Knee angle right side (left cam): 105.19073020475963
+Knee angle left side (right cam): 107.44287801257106
+Right knee angle (front cam): 142.2651064714513
+Left knee angle (front cam): 135.9732870776036
+
+Move counter: 3
+Frame: 276.0
+Knee angle right side (left cam): 105.18901509566462
+Knee angle left side (right cam): 105.40512288529688
+Right knee angle (front cam): 142.26501602116022
+Left knee angle (front cam): 135.978443824988
+
+Move counter: 3
+Frame: 277.0
+Knee angle right side (left cam): 108.58638863716446
+Knee angle left side (right cam): 105.4105912634424
+Right knee angle (front cam): 142.31562455910893
+Left knee angle (front cam): 137.33925983210224
+
+Move counter: 3
+Frame: 278.0
+Knee angle right side (left cam): 108.58541253567485
+Knee angle left side (right cam): 107.32096748977014
+Right knee angle (front cam): 142.30855987344395
+Left knee angle (front cam): 137.34256819121998
+
+Move counter: 3
+Frame: 279.0
+Knee angle right side (left cam): 110.18128258492246
+Knee angle left side (right cam): 107.3298612598958
+Right knee angle (front cam): 143.34926465774984
+Left knee angle (front cam): 137.54013164767318
+
+Move counter: 3
+Frame: 280.0
+Knee angle right side (left cam): 112.02994779388388
+Knee angle left side (right cam): 116.03275477715916
+Right knee angle (front cam): 143.35532276498333
+Left knee angle (front cam): 137.5436821585902
+
+Move counter: 3
+Frame: 281.0
+Knee angle right side (left cam): 117.26743184112831
+Knee angle left side (right cam): 116.0351170634383
+Right knee angle (front cam): 150.16098556660262
+Left knee angle (front cam): 139.84197682875657
+
+Move counter: 3
+Frame: 282.0
+Knee angle right side (left cam): 117.2701786847862
+Knee angle left side (right cam): 123.08672208043498
+Right knee angle (front cam): 150.39736514825927
+Left knee angle (front cam): 139.8416619853916
+
+Move counter: 3
+Frame: 283.0
+Knee angle right side (left cam): 130.7525225414051
+Knee angle left side (right cam): 123.09457934471423
+Right knee angle (front cam): 155.00893024690328
+Left knee angle (front cam): 148.58307488858327
+
+Move counter: 3
+Frame: 284.0
+Knee angle right side (left cam): 128.7724634855784
+Knee angle left side (right cam): 142.92615097325694
+Right knee angle (front cam): 155.01196055079916
+Left knee angle (front cam): 148.58946895752052
+
+Move counter: 3
+Frame: 285.0
+Knee angle right side (left cam): 138.6517030422297
+Knee angle left side (right cam): 142.92698307466028
+Right knee angle (front cam): 153.6976520201039
+Left knee angle (front cam): 152.34159512712594
+
+Move counter: 3
+Frame: 286.0
+Knee angle right side (left cam): 138.66075816886607
+Knee angle left side (right cam): 153.20205040430946
+Right knee angle (front cam): 153.69603084742818
+Left knee angle (front cam): 152.33995539979728
+
+Move counter: 3
+Frame: 287.0
+Knee angle right side (left cam): 150.76564213235218
+Knee angle left side (right cam): 153.20392606737704
+Right knee angle (front cam): 154.38206828507512
+Left knee angle (front cam): 163.33501409548643
+
+Move counter: 3
+Frame: 288.0
+Knee angle right side (left cam): 153.18477753630745
+Knee angle left side (right cam): 155.98244272101317
+Right knee angle (front cam): 154.38223753364872
+Left knee angle (front cam): 163.33594472479132
+
